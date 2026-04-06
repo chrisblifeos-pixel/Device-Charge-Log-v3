@@ -1,0 +1,10 @@
+{
+  "id": "device-charge-log",
+  "name": "Device Charge Log",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Track device charging sessions with pending logs, multi-device simultaneous charging, auto-calculated duration and percentage, charts, and CSV import/export.",
+  "author": "Custom Plugin",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
